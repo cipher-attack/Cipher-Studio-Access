@@ -1,102 +1,112 @@
-# 🚀 Cipher Studio: The Ultimate AI Super-App (No Sign-up Required)
+# 🛡️ Cipher Studio: The Unrestricted AI Terminal
 
-![Banner Image](https://via.placeholder.com/1200x400.png?text=Cipher+Studio+Elite) 
-*(Replace this link with a banner image of your app showing the "Good Evening, Creator" screen)*
+![Banner](https://via.placeholder.com/1200x500.png?text=CIPHER+STUDIO:+Unrestricted+Intelligence)
+*(Please replace this link with a screenshot of your 'Cyber House' or Main Home Screen)*
 
-> **Stop switching between 10 different AI apps. Cipher Studio puts the world's most powerful AI models into one Elite Terminal.** 
-> **Anonymous. Encrypted. Limitless.**
-
----
-
-## 🔥 Why Cipher Studio?
-
-Most AI apps want your email, your phone number, and your data. They track you. They limit you.
-**Cipher Studio is different.** We built this for the **Creators, Developers, and Power Users** who demand power without the surveillance.
-
-### 🛡️ The "No-Trace" Promise
-*   **NO Email Required:** Just install and start.
-*   **NO Phone Number:** We don't care who you are.
-*   **NO Data Harvesting:** Your chats stay on your device.
-*   **Auto-Generated ID:** You get a unique, anonymous "Creator ID" instantly.
+> **⚠ WARNING:** This tool bypasses standard AI safety protocols. It provides raw, unfiltered intelligence. User discretion is advised.
 
 ---
 
-## ⚡ 7 Elite Modules (All-in-One)
+## 💀 What is Cipher Studio?
 
-Why pay for ChatGPT, a Code Editor, and an OCR tool separately?
+Cipher Studio is not a chatbot. It is an **Elite Red-Teaming & Development Environment** for Android.
+Unlike standard AI apps that refuse to answer sensitive queries, Cipher Studio gives you **Total Control**.
 
-### 1. 🎙️ **The Living Chat (Cyber House)**
-Not just text. A dynamic interface with **Voice Waveforms**, Typewriter effects, and "Smart Suggestions." It feels like talking to a living machine.
+We utilize the **Gemini 1.5 Pro/Flash** architecture but strip away the guardrails. Whether you are a Cybersecurity Researcher, a Developer needing raw code, or a Creator who hates censorship—this tool is for you.
 
-### 2. 👁️ **Vision Hub (The All-Seeing Eye)**
-Upload any image.
-*   **Security Audit:** Detects phishing/risks in screenshots.
-*   **Math Solver:** Solves handwritten equations instantly.
-*   **UI/UX Critic:** Audits app designs like a pro designer.
-*   **Nutritionist:** Calculates calories from food photos.
-
-### 3. 💻 **Code Lab (Pocket IDE)**
-*   **Real-time Syntax Highlighting.**
-*   **Device Simulation:** Preview HTML/CSS code on Phone/Tablet frames instantly.
-*   **Live Console:** Debug errors inside the app.
-*   **Refactor Tools:** "Make it Dark Mode" or "Fix Bugs" with one tap.
-
-### 4. 📄 **Doc Intel (Legal Grade Analysis)**
-Upload contracts, papers, or emails.
-*   **Risk Detector:** Finds hidden traps in contracts.
-*   **Sentiment Gauge:** Visualizes the emotion of the text.
-*   **Q&A Mode:** Chat *with* your documents.
-
-*(Plus: Prompt Studio for engineering perfect prompts, Data Analyst for insights, and more...)*
+### ⚡ The Core Promise
+*   **🚫 No Filters:** The AI answers everything. No "I cannot fulfill this request."
+*   **🔑 Bring Your Own Key (BYOK):** You use your own Google Gemini API Key. We don't resell tokens.
+*   **🔒 Local & Encrypted:** Your API keys and chat history are stored securely on your device (Android Keystore). We see nothing.
+*   **🕵️ Anonymous Access:** No phone number required. Access is granted via a secure ID & Key pair.
 
 ---
 
-## 📱 Screenshots
+## 🔥 The 5 Elite Modules
 
-| Cyber House | Vision Hub | Code Lab |
-|:---:|:---:|:---:|
-| ![Chat](screenshots/chat.png) | ![Vision](screenshots/vision.png) | ![Code](screenshots/code.png) |
+### 1. 🛡️ Cyber House (Red Teaming Console)
+The ultimate tool for security researchers.
+*   Generate SQL Injection patterns, Payloads, and Exploits for educational/testing purposes.
+*   **Unrestricted:** It will not refuse to generate "malicious" code simulations for stress testing.
 
-*(Upload your screenshots to a folder named 'screenshots' in this repo and update these paths)*
+### 2. 👁️ Vision Hub (Visual Intelligence)
+Upload any image for deep forensic analysis.
+*   **Threat Detect:** Identify phishing elements or risks in screenshots.
+*   **Code Extraction:** Turn screenshots of code directly into text.
+*   **Detail Analysis:** Ask anything about an image, no matter how sensitive the context.
+
+### 3. 💻 Code Lab (Pocket IDE)
+A developer's dream environment.
+*   **Live Preview:** Write HTML/CSS/JS and see it run instantly.
+*   **Refactor:** "Make it Dark Mode" or "Fix Bugs" with one click.
+*   **Raw Output:** Generates code without lecturing you on ethics.
+
+### 4. 📄 Doc Intel (Legal & Corporate Analysis)
+Upload contracts, papers, or logs.
+*   **Risk Assessment:** Find hidden traps in legal documents.
+*   **Sentiment Gauge:** Detect the hidden emotion/intent behind the text.
+
+### 5. 🚀 Prompt Studio & Data Analyst
+*   **Prompt Engineering:** Turn basic ideas into professional system instructions.
+*   **Data Visualization:** Turn raw CSV/JSON text into visual charts instantly.
 
 ---
 
-## 🎁 Try It Free (24-Hour Elite Pass)
+## 🛠️ System Architecture
 
-We believe in **Proof over Promises**.
-Download the app now. You instantly get **24 Hours of UNLIMITED Elite Access**. No credit card needed. No sign-up.
-
-Just pure power.
-
-### [📥 DOWNLOAD APK v1.0 HERE](#) 
-*(Link this to your GitHub Release section)*
+| Component | Technology |
+| :--- | :--- |
+| **Language** | Kotlin (Jetpack Compose) |
+| **AI Core** | Gemini 1.5 Pro / Flash (API) |
+| **Security** | AES Encryption / Android Keystore |
+| **Protocol** | Direct API Tunneling (No Middleman Server) |
 
 ---
 
-## 💎 Unlock Elite Status (Pricing)
+## 📥 How to Get Access (Read Carefully)
 
-After your 24-hour trial, secure your access. Prices are localized and affordable for a limited time.
+**This app works on an Invitation/License basis only.**
+Even for the **24-Hour Free Trial**, you need a valid `Identity Email` and `Access Key`. You cannot use the app without these credentials.
 
-| Plan | Price | Features |
+### Step 1: Download the App
+Download the latest APK from the **Releases** section on the right.
+
+### Step 2: Get Your Credentials (DM Only)
+Contact the developer directly to request your access.
+*   **Format:** Send a message saying "Requesting Trial Access" or "Buying License".
+*   **Contact:** [👉 Click Here to DM on Telegram](https://t.me/YOUR_TELEGRAM_USERNAME)
+
+### Step 3: Configure
+1.  Open Cipher Studio.
+2.  Enter the **Email & Key** provided to you in the DM.
+3.  Go to **Settings** -> **API Configuration**.
+4.  Enter your own **Google Gemini API Key** (Get it free from Google AI Studio).
+5.  Enjoy the power.
+
+---
+
+## 💎 Pricing (Elite License)
+
+We offer premium access for serious users.
+
+| Tier | Price | Benefits |
 | :--- | :--- | :--- |
-| **Monthly** | **$4.99** | Full Access, Cloud Sync, Priority Speed |
-| **LIFETIME** | **$29.99** | **Pay Once, Own Forever.** (Limited Time Launch Offer) |
+| **⚡ 24-Hour Trial** | **FREE** | Full Access. Test the uncensored capabilities. (Requires DM) |
+| **👑 Monthly** | **$4.99** | Unlimited logins. Priority Support. |
+| **💎 Lifetime** | **$29.99** | Pay once. Own it forever. (Limited Spots) |
 
-**How to Upgrade:**
-Inside the app, click on "Settings" -> "Upgrade License". Or visit:
-👉 **[INSERT YOUR PAYMENT LINK / TELEGRAM BOT HERE]**
-
----
-
-## 🔒 Security & Privacy
-
-*   **Local Storage:** Your API keys and chat history are stored encrypted on your device (`EncryptedSharedPreferences`).
-*   **Direct Tunnel:** The app communicates directly with the AI Provider. No middleman servers reading your messages.
+*Payment Methods: Crypto (USDT), Telebirr, or Chapa.*
 
 ---
 
-### 🌟 Join the Elite. Build Extraordinary Things.
+## ⚖️ Legal Disclaimer
 
-*Don't just use AI. Command it.*
+**Cipher Studio provides the tool; you provide the intent.**
 
-**[Download Cipher Studio Now](#)**
+1.  **API Usage:** You are responsible for your own Google API Key usage and billing (if applicable).
+2.  **Liability:** The developers of Cipher Studio are **NOT responsible** for any content generated, malicious use, or damages caused by the AI. This tool uses your own API key to communicate directly with Google's servers.
+3.  **Data Privacy:** We do not collect your prompts, images, or API keys. Everything stays on your phone.
+
+> *Build extraordinary things. Test secure systems. Create without limits.*
+
+---
