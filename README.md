@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="screenshots/banner.png" alt="Cipher Studio Banner" width="100%" />
+  <img src="screenshots/banner.gif" alt="Cipher Studio Banner" width="100%" />
 
   <h1>🛡️ CIPHER STUDIO: The Unrestricted AI Terminal</h1>
   
