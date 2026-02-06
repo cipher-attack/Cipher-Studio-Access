@@ -10,8 +10,8 @@
   </p>
 
   <p>
-    <a href="#-get-access--download"><strong>📥 Download APK</strong></a> • 
-    <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><strong>💬 Request Access</strong></a> • 
+    <a href="https://github.com/cipher-attack/Cipher-Studio-Access/releases/download/v1.0.0/Cipher_Studio_v1.0.apk"><strong>📥 Download APK</strong></a> • 
+    <a href="https://t.me/cipher_attack"><strong>💬 Request Access</strong></a> • 
     <a href="#-the-gallery"><strong>👁️ View Gallery</strong></a>
   </p>
 
