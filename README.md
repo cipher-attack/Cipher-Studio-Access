@@ -42,8 +42,8 @@ Most AI interfaces wrap the model in layers of safety filters. Cipher Studio con
 ## ▶️ See it in Action
 
 <div align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
-    <img src="screenshots/video_thumbnail.jpg" alt="Watch Demo" width="100%" style="border-radius: 8px; border: 1px solid #333;" />
+  <a href="https://youtu.be/0F53lP7AkMM?si=d4G5Q14mTGcpsWx3">
+    <img src="screenshots/video_thumbnail.png" alt="Watch Demo" width="100%" style="border-radius: 8px; border: 1px solid #333;" />
   </a>
   <p><em>👆 Click to watch Cipher Studio performing a live Red Team simulation.</em></p>
 </div>
