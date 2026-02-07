@@ -39,6 +39,17 @@ Most AI interfaces wrap the model in layers of safety filters. Cipher Studio con
 
 ---
 
+## ▶️ See it in Action
+
+<div align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+    <img src="screenshots/video_thumbnail.jpg" alt="Watch Demo" width="100%" style="border-radius: 8px; border: 1px solid #333;" />
+  </a>
+  <p><em>👆 Click to watch Cipher Studio performing a live Red Team simulation.</em></p>
+</div>
+
+---
+
 ## 🛠️ The Modules
 
 This isn't just a chat window. The app is split into 5 dedicated engines:
@@ -94,6 +105,7 @@ I maintain this project personally. To keep development active and support manag
 | **Trial Pass** | **FREE** | Full access for 24 Hours. Test everything. |
 | **Monthly** | **$4.99** | Cancel anytime. |
 | **Lifetime** | **$29.99** | One-time payment. Permanent access + Updates. |
+| **Ethiopia** | **300 ETB** | Special local price (CBE / Telebirr). Lifetime Access. |
 
 > **Refund Policy:** If the Lifetime license doesn't work as described, DM me within 3 days. I'll refund you. I want users who actually find value in this tool.
 
