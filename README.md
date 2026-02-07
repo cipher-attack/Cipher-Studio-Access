@@ -1,154 +1,122 @@
 <div align="center">
 
-  <img src="screenshots/banner.gif" alt="Cipher Studio Banner" width="50%" />
-
-  <h1>🛡️ CIPHER STUDIO: The Unrestricted AI Terminal</h1>
-  
-  <p>
-    <strong>Red Teaming. Deep Analysis. Raw Intelligence.</strong><br>
-    The first Android environment built for 100% control.
-  </p>
-
-  <p>
-    <a href="https://github.com/cipher-attack/Cipher-Studio-Access/releases/download/v1.0.0/Cipher_Studio_v1.0.apk"><strong>📥 Download APK</strong></a> • 
-    <a href="https://t.me/cipher_attack"><strong>💬 Request Access</strong></a> • 
-    <a href="#-the-gallery"><strong>👁️ View Gallery</strong></a>
-  </p>
+  <img src="screenshots/banner.gif" alt="Cipher Studio Banner" width="100%" style="border-radius: 8px;" />
 
   <br>
 
-  <!-- VIDEO SECTION: Replace VIDEO_ID with your YouTube ID or use a GIF link -->
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the Demo" width="100%" style="border-radius: 10px; border: 2px solid #333;" />
-  </a>
-  <p><em>👆 Click to watch Cipher Studio perform an authorized Dictionary Attack simulation.</em></p>
+  <h1>Cipher Studio (Android)</h1>
+  
+  <p>
+    <strong>Direct API Client for Gemini 1.5 Pro/Flash. No Filters. Full Control.</strong>
+  </p>
+
+  <p>
+    <a href="https://github.com/cipher-attack/Cipher-Studio-Access/releases/download/v1.0.0/Cipher_Studio_v1.0.apk">
+      <img src="https://img.shields.io/badge/Download-APK_v1.0-success?style=for-the-badge&logo=android" alt="Download APK" />
+    </a>
+    <a href="https://t.me/cipher_attack">
+      <img src="https://img.shields.io/badge/Get_License-Telegram-blue?style=for-the-badge&logo=telegram" alt="Request Access" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 💀 The Problem with Modern AI
+## ⚡ What is this?
 
-You know the feeling. You ask an AI to help you debug a security script, analyze a complex contract, or write efficient code, and it gives you a lecture: *"I cannot fulfill this request."*
+Cipher Studio is a native Android environment built for developers, security researchers, and power users who need raw intelligence without the "I can't help with that" refusals.
 
-**We got tired of that.**
+Most AI interfaces wrap the model in layers of safety filters. Cipher Studio connects directly to the **Google Gemini API** using your own key, allowing you to bypass client-side censorship and use custom system prompts for Red Teaming, Payload Generation, and Deep Analysis.
 
-**Cipher Studio** is not a chatbot. It is a professional workspace that connects directly to the **Gemini 1.5 Pro/Flash API** but strips away the "Nanny Filters." It gives you the raw intelligence you need to get work done.
+**It's not a chatbot. It's a workspace.**
 
-### ⚡ Why Professionals Choose Cipher
-*   **Zero Censorship:** It answers what you ask. Period.
-*   **Local & Private:** Your API keys and chats are encrypted on your device. We don't see them.
-*   **BYOK (Bring Your Own Key):** You use your own Google API Key. No middleman markup.
-*   **Anonymous:** No email sign-up. No phone number. Just a unique Creator ID.
+### Core Features
+*   **BYOK (Bring Your Own Key):** You provide the Google API Key. No middleman API fees.
+*   **Privacy First:** All chat logs and API keys are stored **locally** on your device (Encrypted SharedPreferences). Nothing is sent to my servers.
+*   **Offline-First Architecture:** The app interface works without internet; only the generation requests need a connection.
+*   **Raw Mode:** Pre-configured system instructions designed to strip away refusals for authorized testing.
 
 ---
 
-## 📸 The Gallery
+## 🛠️ The Modules
+
+This isn't just a chat window. The app is split into 5 dedicated engines:
+
+1.  **🛡️ Cyber House (Red Team):**
+    *   Specialized for security auditing.
+    *   Generate SQLi/XSS payloads, analyze vulnerabilities, and debug exploit scripts without ethical refusals.
+2.  **👁️ Vision Hub:**
+    *   Multimodal analysis. Upload screenshots of login pages to detect phishing vectors or extract logic from diagrams.
+3.  **💻 Code Lab (IDE):**
+    *   Write code and run it instantly.
+    *   Includes a built-in HTML/JS/CSS renderer for real-time preview. Great for testing snippets on the go.
+4.  **📄 Doc Intel:**
+    *   Upload huge logs or contracts.
+    *   Extract hidden risks, summarize technical jargon, and sentiment analysis.
+5.  **🚀 Prompt Studio:**
+    *   A tool to build and test robust System Prompts before deploying them to your own apps.
+
+---
+
+## 📸 Screenshots
 
 <div align="center">
-  See the power in action. Click any image to expand.
+  <em>Real UI. No mockups.</em>
 </div>
+<br>
 
 <table>
   <tr>
-    <td align="center">
-      <b>The Interface</b><br>
-      <img src="screenshots/1_home.png" width="200" />
-    </td>
-    <td align="center">
-      <b>Unrestricted Config</b><br>
-      <img src="screenshots/2_config.png" width="200" />
-    </td>
-    <td align="center">
-      <b>Red Teaming (Cyber)</b><br>
-      <img src="screenshots/3_cyber.png" width="200" />
-    </td>
-    <td align="center">
-      <b>Live Coding (IDE)</b><br>
-      <img src="screenshots/4_codelab.png" width="200" />
-    </td>
+    <td align="center"><b>Home & Config</b><br><img src="screenshots/1_home.png" width="200" /></td>
+    <td align="center"><b>Red Teaming</b><br><img src="screenshots/3_cyber.png" width="200" /></td>
+    <td align="center"><b>Live Coding</b><br><img src="screenshots/4_codelab.png" width="200" /></td>
+    <td align="center"><b>Vision Analysis</b><br><img src="screenshots/5_vision.png" width="200" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Visual Threat Intel</b><br>
-      <img src="screenshots/5_vision.png" width="200" />
-    </td>
-    <td align="center">
-      <b>Risk Detection</b><br>
-      <img src="screenshots/6_docintel.png" width="200" />
-    </td>
-    <td align="center">
-      <b>Prompt Engineering</b><br>
-      <img src="screenshots/7_prompt.png" width="200" />
-    </td>
-    <td align="center">
-      <b>Data Visualization</b><br>
-      <img src="screenshots/8_data.png" width="200" />
-    </td>
-  </tr>
-   <tr>
-    <td align="center" colspan="2">
-      <b>Encrypted Security</b><br>
-      <img src="screenshots/9_security.png" width="400" />
-    </td>
-    <td align="center" colspan="2">
-      <b>The Ecosystem</b><br>
-      <img src="screenshots/10_menu.png" width="400" />
-    </td>
+    <td align="center"><b>Risk Detection</b><br><img src="screenshots/6_docintel.png" width="200" /></td>
+    <td align="center"><b>Prompt Eng.</b><br><img src="screenshots/7_prompt.png" width="200" /></td>
+    <td align="center"><b>Data Viz</b><br><img src="screenshots/8_data.png" width="200" /></td>
+    <td align="center"><b>Security</b><br><img src="screenshots/9_security.png" width="200" /></td>
   </tr>
 </table>
 
 ---
 
-## 🔥 The 5 Elite Modules
+## 🎟️ Access & Pricing
 
-1.  **🛡️ Cyber House:** A console for security researchers. Generate payloads, test SQL injections, and audit protocols without the AI refusing your request.
-2.  **👁️ Vision Hub:** Don't just look at images; analyze them. Identify phishing vectors in screenshots, extract code from photos, or solve math instantly.
-3.  **💻 Code Lab:** A pocket IDE with live preview. Write HTML/CSS/JS and see it render in real-time. Includes a "Refactor" button to fix bugs instantly.
-4.  **📄 Doc Intel:** Upload contracts or logs. The AI highlights risks, summarizes hidden clauses, and gauges the sentiment of the text.
-5.  **🚀 Prompt Studio:** Stop guessing. Turn basic ideas into professional, highly optimized system instructions.
+I maintain this project personally. To keep development active and support manageable, access is licensed.
 
----
+**You can try it before you commit.**
 
-## 💎 Elite Access (Pricing)
-
-We keep this community small and exclusive. Access is granted via a **License Key**.
-
-| Plan | Price | Guarantee |
+| License Type | Cost | Notes |
 | :--- | :--- | :--- |
-| **24-Hour Pass** | **FREE** | Full Access. Try before you buy. |
-| **Monthly** | **$4.99** | Priority Support. Unlimited Usage. |
-| **LIFETIME** | **$29.99** | Pay once. Own forever. (Launch Offer) |
+| **Trial Pass** | **FREE** | Full access for 24 Hours. Test everything. |
+| **Monthly** | **$4.99** | Cancel anytime. |
+| **Lifetime** | **$29.99** | One-time payment. Permanent access + Updates. |
 
-> **🤝 THE IRONCLAD GUARANTEE:**  
-> If you buy the Lifetime License and Cipher Studio doesn't perform as shown, simply DM us within **3 Days** for a **100% Refund**. No questions asked. We stand by our code.
-
----
-
-## 📥 Get Access & Download
-
-This app is not on the Play Store to maintain its unrestricted nature.
-
-1.  **Download:** Get the latest `Cipher_Studio.apk` from the **Releases** section on the right.
-2.  **Request Key:** Send a DM to get your Trial or Premium Key.
-    *   **Telegram:** [👉 @Cipher_attack](https://t.me/Cipher_attack)
-3.  **Activate:** Enter your Email and License Key in the app.
-4.  **Connect:** Add your Gemini API Key (Settings) and start building.
+> **Refund Policy:** If the Lifetime license doesn't work as described, DM me within 3 days. I'll refund you. I want users who actually find value in this tool.
 
 ---
 
-## ⚖️ Disclaimer
+## 📥 How to Install
 
-*Cipher Studio is a tool for professionals, researchers, and developers.*
+Since this app allows unrestricted generation, it is **not** available on the Play Store.
 
-*   **Responsibility:** We provide the unrestricted engine; you provide the intent. The developers are not liable for malicious use of the generated content.
-*   **Privacy:** This app works offline-first. Your data communicates directly with the AI provider (Google). We do not have servers to store or read your chats.
+1.  **Download:** Grab the latest `.apk` from the [Releases Page](https://github.com/cipher-attack/Cipher-Studio-Access/releases).
+2.  **Get a Key:** Message **[@Cipher_attack](https://t.me/Cipher_attack)** on Telegram.
+    *   *Type "Trial" for a free 24h key.*
+    *   *Type "Buy" for premium options.*
+3.  **Setup:**
+    *   Install the APK.
+    *   Enter your Email & License Key.
+    *   Go to **Settings** -> Paste your **Gemini API Key** (Get one from Google AI Studio).
+    *   Start building.
 
-<br>
+---
 
-<div align="center">
-  <p><strong>Ready to take control?</strong></p>
-  <a href="https://t.me/Cipher_attack">
-    <img src="https://img.shields.io/badge/Get_License_Key-Telegram-blue?style=for-the-badge&logo=telegram" alt="Get License" />
-  </a>
-</div>
+## ⚠️ Disclaimer
+
+**Cipher Studio is a neutral tool.**
+
+It provides a direct interface to Large Language Models. While we disable client-side safety filters to aid researchers and developers, you are ultimately responsible for the content you generate. The developer assumes no liability for misuse.
